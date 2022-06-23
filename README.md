@@ -1,2 +1,4 @@
 # CypressDemo
-This is my Firs Cypress automation project 
+This is my First Cypress automation project 
+
+Developed this script for the demo web site https://letcode.in/test
